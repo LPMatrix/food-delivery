@@ -20,6 +20,9 @@ Version: 1.0
 -- Mobile Media
 */
 /* Body */
+.bg-primary{
+    background-color: #ff1904!important;
+}
 body {
     background: #f3f7f8;
     font-size: 13px;
